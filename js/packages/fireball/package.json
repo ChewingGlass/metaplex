@@ -1,8 +1,8 @@
 {
   "name": "fireball",
   "version": "0.1.0",
+  "homepage": ".",
   "private": true,
-  "homepage": "https://lwus.github.io/fireball/",
   "dependencies": {
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
